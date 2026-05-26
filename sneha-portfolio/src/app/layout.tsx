@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   description: "Full-Stack Developer specializing in microservices, AI-powered apps, Go, Next.js & cloud infrastructure. AWS & Oracle Certified.",
   keywords: ["Full-Stack Developer", "Golang", "Next.js", "Microservices", "AI", "Kerala", "India"],
   authors: [{ name: "Sneha Mohanan" }],
+  icons: { icon: "/favicon.ico" },
   openGraph: {
     title: "Sneha Mohanan — Full-Stack Developer",
     description: "Architect of enterprise AI-powered microservice platforms. AWS & Oracle Certified.",
